@@ -1,0 +1,38 @@
+
+***Singleton Pattern Demo***
+
+&Trying to make a captain for our team
+"New Captain selected for our team
+,Trying to make another captain for our team
+@You already have a Captain for your team.Send him for the toss.
+c1 and c2 are same instance
+
+#***Template Method Pattern Demo***
+
+Computer Sc  Papers:
+Mathematics
+SoftSkills
+Object Oriented Programming
+
+Electronics Papers:
+Mathematics
+SoftSkills
+!Digital Logic and Circuit Theory
+
+***Facade Pattern Demo***
+
+Creation of the Robot Start
+Color is set to : Green
+Metal is set to : Iron
+Body Creation done
+ 
+Robot Creation End
+
+
+Creation of the Robot Start
+Color is set to : Blue
+Metal is set to : Steel
+Body Creation done
+ 
+Robot Creation End
+

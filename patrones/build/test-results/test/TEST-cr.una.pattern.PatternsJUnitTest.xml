@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cr.una.pattern.PatternsJUnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-05T14:46:50" hostname="macbook-pro.costarica.corp.akamai.com" time="0.017">
+  <properties/>
+  <testcase name="testSingletonPattern" classname="cr.una.pattern.PatternsJUnitTest" time="0.008"/>
+  <testcase name="testTemplateMethod" classname="cr.una.pattern.PatternsJUnitTest" time="0.002"/>
+  <testcase name="testFacade" classname="cr.una.pattern.PatternsJUnitTest" time="0.005"/>
+  <system-out><![CDATA[
+***Singleton Pattern Demo***
+
+Trying to make a captain for our team
+New Captain selected for our team
+Trying to make another captain for our team
+You already have a Captain for your team.Send him for the toss.
+c1 and c2 are same instance
+
+***Template Method Pattern Demo***
+
+Computer Sc  Papers:
+Mathematics
+SoftSkills
+Object Oriented Programming
+
+Electronics Papers:
+Mathematics
+SoftSkills
+Digital Logic and Circuit Theory
+
+***Facade Pattern Demo***
+
+Creation of the Robot Start
+Color is set to : Green
+Metal is set to : Iron
+Body Creation done
+ 
+Robot Creation End
+
+
+Creation of the Robot Start
+Color is set to : Blue
+Metal is set to : Steel
+Body Creation done
+ 
+Robot Creation End
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
